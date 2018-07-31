@@ -8,10 +8,11 @@
 /.idea/codeStyles/Project.xml
 /.idea/runConfigurations.xml
 /.idea/caches/build_file_checksums.ser
+/.idea/gradle.xml
+/.idea/vcs.xml
 .DS_Store
 /build
 /captures
 .externalNativeBuild
-gradle.properties
-gradlew
-gradlew.bat
+/gradle/wrapper/gradle-wrapper.jar
+/gradle/wrapper/gradle-wrapper.properties
